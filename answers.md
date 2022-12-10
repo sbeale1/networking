@@ -8,4 +8,10 @@
   - port 0 is sued for netowrk communication
   - port 21 is used to manage the server side of FTP sessions
   - port 23 governs telent, a text based system for logging into remote systems
-
+## Tracer Router
+- 30 "hops"
+- samford is my ISP
+- 4
+## IP location
+- all of the other IP adresses were private
+- 140.82.113.4:443, united states, alabama, birmingham, samford university 
